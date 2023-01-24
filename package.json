@@ -3,6 +3,12 @@
   "displayName": "Launch Json Generator",
   "description": "Display quick pick windows that generate json text for launch.json and tasks.json.",
   "version": "0.0.1",
+  "publisher": "hw104",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hw104/vscode-launch-file-picker.git"
+  },
   "engines": {
     "vscode": "^1.74.0"
   },
